@@ -10,7 +10,7 @@ if (nivelDeExperiencia <= 1000){
     console.log("O Herói de nome " + nomeHeroi + " está no nível de experiência Ferro.")
 }else if (nivelDeExperiencia > 1000 && nivelDeExperiencia <= 2000){
     console.log("O Herói de nome " + nomeHeroi + " está no nível de experiência Bronze.")
-}else if (nivelDeExperiencia >= 2000 && nivelDeExperiencia <= 5000){
+}else if (nivelDeExperiencia >= 2001 && nivelDeExperiencia <= 5000){
     console.log("O Herói de nome " + nomeHeroi + " está no nível de experiência Prata.")
 }else if (nivelDeExperiencia >= 5001 && nivelDeExperiencia <= 7000){
     console.log("O Herói de nome " + nomeHeroi + " está no nível de experiência Ouro.")
